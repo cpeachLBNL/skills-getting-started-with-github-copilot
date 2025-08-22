@@ -48,3 +48,9 @@ The application uses a simple data model with meaningful identifiers:
    - Grade level
 
 All data is stored in memory, which means data will be reset when the server restarts.
+
+## GitHub Copilot Agent Mode
+
+This repository also serves as a learning exercise for GitHub Copilot's **Agent Mode**. Agent Mode is an enhanced version of Copilot that provides automatic feedback loops and can handle complex, multi-step tasks.
+
+For detailed information about Agent Mode, including features, use cases, and examples, see the [Copilot Agent Mode documentation](../COPILOT_AGENT_MODE.md).

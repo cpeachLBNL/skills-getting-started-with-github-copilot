@@ -29,6 +29,12 @@
 
 *There's no better way to learn than building things!* 🚀
 
+### 🤖 Learn About Copilot Agent Mode
+
+Want to learn about GitHub Copilot's advanced **Agent Mode**? Check out our comprehensive guide:
+
+📖 **[Copilot Agent Mode Documentation](COPILOT_AGENT_MODE.md)** - Learn how Agent Mode's feedback loops and enhanced capabilities can handle complex, multi-step coding tasks.
+
 </div>
 
 ---
